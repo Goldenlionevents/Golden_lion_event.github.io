@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body
+{
+   background-image:linear-gradient(to right bottom,black,#464646,#a56305);
+   animation:movinggradient 10s ease infinite;
+   background-size:200%;
+}
+@keyframes movinggradient 
+{
+	0%{
+		background-position: 0% 50%;
+	}
+	50%
+	{
+		background-position: 100% 50%;
+	}
+	100%
+	{
+		background-position: 0% 50%;
+	} 
+
+}
+.navigation
+{
+    display: flex;
+    flex: 1;
+    justify-content: right;
+}
+ul
+{
+    display: inline-block;
+    list-style-type: none;
+}
+ul li
+{
+    display: inline-block;
+    margin-right: 70px;
+}
+ul li a
+{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 18px;
+    color:white;
+}
+
+ul li a:hover
+{
+    color:rgba(236, 182, 4, 0.966);
+}
+.form-box {
+    width: 380px;
+    height: 480px;
+    position: relative;
+    margin: 2% auto;
+    background: rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    overflow: hidden;
+}
+
+.input-group-register {
+    top: 120px;
+    left: 10%;
+    position: absolute;
+    width: 280px;
+    transition: 0.5s;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+}
+
+.submit-btn {
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+   /* background: #f069f0;*/
+   background-image: radial-gradient( rgb(210,255,82) 0%,rgb(145,232,66) 100%);
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+}
+
+.check-box {
+    margin: 30px 10px 34px 0;
+}
+
+span {
+    color: #777;
+    font-size: 12px;
+    bottom: 68px;
+    position: absolute;
+}
+
+.input-group-login {
+    top: 150px;
+    left: 10%;
+    position: absolute;
+    width: 280px;
+}
+p
+{
+    text-decoration: none;
+    position: absolute;
+    top: 400px;
+    left:30%;
+}
