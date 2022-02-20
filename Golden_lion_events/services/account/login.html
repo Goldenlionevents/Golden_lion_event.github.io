@@ -5,23 +5,26 @@
     <meta charset="utf-8">
     <title>login-page</title>
     <link rel="stylesheet" href="account.css">
-
+    <script src="login.js"></script> 
 </head>
 
 <body>
 
- <img src="logo.png" alt="logo" width="7%" height="7%">
-   
+ <img src="../../logo.png" alt="logo" width="9%" height="9%">
+ <div class="container">
+
     <div class="form-box">
-        <form id="login" class="input-group-login">
-            <input type="text" class="input-field" placeholder="Email address" required>
-            <input type="password" class="input-field" placeholder="password" required>
-            <input type="checkbox" class="check-box"><span>Remember password</span>
+        <h2 id="logged"></h2>
+        <form  name="loginform" id="login" class="input-group-login" action="../../home.html" onsubmit=" return validateaccount()" method="post">
+            <input type="email" name="email" class="input-field" placeholder="Email address" required>
+            <input type="password" class="input-field" name="accountpassword"  placeholder="password" required>
+            <short id="msg"></short> <br/>
+            <input type="checkbox" class="check-box"><span>  Remember password</span>
             <button type="submit" class="submit-btn">Log In</button>
         </form>
-        <p>or <a href="register.html"> Sign Up</a></p>
+        <p class="signup">or <a href="register.html" > Sign Up</a></p>
     </div>
-
+</div>
 </body>
 
 </html>
