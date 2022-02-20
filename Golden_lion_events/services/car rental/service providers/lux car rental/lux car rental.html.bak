@@ -2,7 +2,7 @@
 
 <html lang="en">
   <head>
-    <title>arena car rental</title>
+    <title>lux car rental</title>
     <meta property="og:title" content="goldenlion events" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -16,7 +16,6 @@
   <header>
   <img  src="../../../../logo.png" alt="logo" class="image"/>
   <nav class="navbar">
-		
         <div class="brand-title">GOLDENLION EVENTS</div>
         <a href="#" class="toggle-button">
           <span class="bar"></span>
@@ -40,7 +39,7 @@
           <div class="hero">
 			 <div class="content-container">
               <img  class="profile "src="profile.jpg" alt="profile_pic"></img>
-                <h1>arena car rental</h1>			  
+                <h1>lux car rental</h1>			  
            </div>	
           </div>
         </div>
@@ -64,20 +63,12 @@
                 
                 <span class="place-card-text1">
                   <span>
-                   Arena car rental has grown and been enriched with a high qualified staff always aiming at 
-customer satisfaction and the fulfilment of their needs.
-we offer a wide selection of new models starting from small city cars, medium sized, automatic and 
-luxury cars able to satisfy or give mobile solution at any of your professional or private needs.
+                  It would be nice for the bride and groom to be in a vehicle that makes you feel unique and a vehicle that makes you stylish.
+                Start your upcoming meeting inside a stretch limousine. Give your colleagues a different view and feel. Arrive at your destination in style.
+                Kid’s parties and adult birthday parties are mostly celebrated at home or perhaps in a club where you and your friends go to.
                   </span>
-				  <div class="check_log">
-                    <div id="msg_order" class="solid-button-container1" style="  display:none;">
-                     <span id="span1">you have to login to place order</span><button class="solid-button1" onclick="window.location.href='../../../account/login.html'" >
-                        <span>signup/in</span>
-                      </button>
-                </div> 
-                </div>
 				    <div class="solid-button-container ">
-                <button id="placeorder" class="solid-button" onclick=" return place_order()" method="post">
+                <button class="solid-button">
                   <span>place order</span>
                 </button>
             </div> 

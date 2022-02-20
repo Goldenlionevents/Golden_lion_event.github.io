@@ -69,15 +69,8 @@ customer satisfaction and the fulfilment of their needs.
 we offer a wide selection of new models starting from small city cars, medium sized, automatic and 
 luxury cars able to satisfy or give mobile solution at any of your professional or private needs.
                   </span>
-				  <div class="check_log">
-                    <div id="msg_order" class="solid-button-container1" style="  display:none;">
-                     <span id="span1">you have to login to place order</span><button class="solid-button1" onclick="window.location.href='../../../account/login.html'" >
-                        <span>signup/in</span>
-                      </button>
-                </div> 
-                </div>
 				    <div class="solid-button-container ">
-                <button id="placeorder" class="solid-button" onclick=" return place_order()" method="post">
+                <button class="solid-button">
                   <span>place order</span>
                 </button>
             </div> 

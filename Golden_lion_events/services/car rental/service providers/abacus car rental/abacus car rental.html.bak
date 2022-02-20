@@ -2,7 +2,7 @@
 
 <html lang="en">
   <head>
-    <title>arena car rental</title>
+    <title>abacus car rental</title>
     <meta property="og:title" content="goldenlion events" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -40,7 +40,7 @@
           <div class="hero">
 			 <div class="content-container">
               <img  class="profile "src="profile.jpg" alt="profile_pic"></img>
-                <h1>arena car rental</h1>			  
+                <h1>abacus car rental</h1>			  
            </div>	
           </div>
         </div>
@@ -64,20 +64,12 @@
                 
                 <span class="place-card-text1">
                   <span>
-                   Arena car rental has grown and been enriched with a high qualified staff always aiming at 
-customer satisfaction and the fulfilment of their needs.
-we offer a wide selection of new models starting from small city cars, medium sized, automatic and 
-luxury cars able to satisfy or give mobile solution at any of your professional or private needs.
+                     Abacus provides long-term car rental service for companies, which includes financing the purchase of a car,full insurance package available in Ethiopia, 
+,all-inclusive technical service,  substitute car in case of a mechanical failure/accident and accident service (repair and cost management)
+We look forward for making your event one to remember.
                   </span>
-				  <div class="check_log">
-                    <div id="msg_order" class="solid-button-container1" style="  display:none;">
-                     <span id="span1">you have to login to place order</span><button class="solid-button1" onclick="window.location.href='../../../account/login.html'" >
-                        <span>signup/in</span>
-                      </button>
-                </div> 
-                </div>
 				    <div class="solid-button-container ">
-                <button id="placeorder" class="solid-button" onclick=" return place_order()" method="post">
+                <button class="solid-button">
                   <span>place order</span>
                 </button>
             </div> 
