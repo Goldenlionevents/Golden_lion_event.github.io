@@ -29,10 +29,6 @@
 			<li><a href="../../home.html#main-section">services</a></li>
             <li><a href="../../about.html">About</a></li>
             <li> <a href="#contact-section" class="link">Contact</a></li>
-			<li><div class="solid-button-container ">
-              <button class="solid-button" onclick=" return logout()" id="logout">
-                <span>logout</span>
-              </button></div></li>
           </ul>
         </div>
       </nav>
