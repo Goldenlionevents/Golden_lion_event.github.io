@@ -2,7 +2,7 @@
 
 <html lang="en">
   <head>
-    <title>arts pastry</title>
+    <title>flash studio </title>
     <meta property="og:title" content="goldenlion events" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -39,7 +39,7 @@
           <div class="hero">
 			 <div class="content-container">
               <img  class="profile "src="profile.jpg" alt="profile_pic"></img>
-                <h1>arts pastry</h1>			  
+                <h1>flash studio </h1>			  
            </div>	
           </div>
         </div>
@@ -63,19 +63,13 @@
                 
                 <span class="place-card-text1">
                   <span>
-                  we make the most artistic cakes in the country made by our creative and talented chiefs.
-we also take orders of any design for any type of event you like to have.
-
-our pastry product are affordable from communites with high income to communities with low income.</span>
-<div class="check_log">
-                    <div id="msg_order" class="solid-button-container1" style="  display:none;">
-                     <span id="span1">you have to login to place order</span><button class="solid-button1" onclick="window.location.href='../../../account/login.html'" >
-                        <span>signup/in</span>
-                      </button>
-                </div> 
-                </div>
+                 flash studio have luxturios studio which is found on high building 2nd floor in lafto.
+we have full HD cameras and proffesional photographers.
+we print with standard photo sizes 4x4, 4x6,5x7,8x8,wallet(4),11x14,12x12,8x10,5x15,12x36,8x24,16x20 and 20x30.
+we have also photo frames and albums with different sizes.
+you will be happy on our work.</span>
 				    <div class="solid-button-container ">
-                <button id="placeorder" class="solid-button" onclick=" return place_order()" method="post">
+                <button class="solid-button">
                   <span>place order</span>
                 </button>
             </div> 

@@ -2,7 +2,7 @@
 
 <html lang="en">
   <head>
-    <title>arts pastry</title>
+    <title>nova cake</title>
     <meta property="og:title" content="goldenlion events" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -39,7 +39,7 @@
           <div class="hero">
 			 <div class="content-container">
               <img  class="profile "src="profile.jpg" alt="profile_pic"></img>
-                <h1>arts pastry</h1>			  
+                <h1>nova cake</h1>			  
            </div>	
           </div>
         </div>
@@ -63,19 +63,11 @@
                 
                 <span class="place-card-text1">
                   <span>
-                  we make the most artistic cakes in the country made by our creative and talented chiefs.
-we also take orders of any design for any type of event you like to have.
-
-our pastry product are affordable from communites with high income to communities with low income.</span>
-<div class="check_log">
-                    <div id="msg_order" class="solid-button-container1" style="  display:none;">
-                     <span id="span1">you have to login to place order</span><button class="solid-button1" onclick="window.location.href='../../../account/login.html'" >
-                        <span>signup/in</span>
-                      </button>
-                </div> 
-                </div>
+                  our companie is well known for serving the best cakes in the city.
+we have very skilled and exprienced chiefs that are woiking hard to statify your wants 24/7.
+we also take ordes for big events like wedding, bridal showers, baby showers and so on.</span>
 				    <div class="solid-button-container ">
-                <button id="placeorder" class="solid-button" onclick=" return place_order()" method="post">
+                <button class="solid-button">
                   <span>place order</span>
                 </button>
             </div> 
