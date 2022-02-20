@@ -68,15 +68,8 @@
                 a fantastic selection of halls, community centres and venues for hire. what are you waitng
                 for book your event with advangel. we will work hard for you.
                   </span>
-				  <div class="check_log">
-                    <div id="msg_order" class="solid-button-container1" style="  display:none;">
-                     <span id="span1">you have to login to place order</span><button class="solid-button1" onclick="window.location.href='../../../account/login.html'" >
-                        <span>signup/in</span>
-                      </button>
-                </div> 
-                </div>
 				    <div class="solid-button-container ">
-                <button id="placeorder" class="solid-button" onclick=" return place_order()" method="post">
+                <button class="solid-button">
                   <span>place order</span>
                 </button>
             </div> 

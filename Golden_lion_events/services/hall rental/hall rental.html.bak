@@ -2,7 +2,7 @@
 
 <html lang="en">
   <head>
-    <title>hair salon</title>
+    <title>hall rental</title>
     <meta property="og:title" content="goldenlion events" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -16,6 +16,7 @@
   <header>
   <img  src="../../logo.png" alt="logo" class="image"/>
   <nav class="navbar">
+		
         <div class="brand-title">GOLDENLION EVENTS</div>
         <a href="#" class="toggle-button">
           <span class="bar"></span>
@@ -29,10 +30,6 @@
 			<li><a href="../../home.html#main-section">services</a></li>
             <li><a href="../../about.html">About</a></li>
             <li> <a href="#contact-section" class="link">Contact</a></li>
-			<li><div class="solid-button-container ">
-              <button class="solid-button" onclick=" return logout()" id="logout">
-                <span>logout</span>
-              </button></div></li>
           </ul>
         </div>
       </nav>
@@ -42,11 +39,11 @@
           <div class="hero">
 			 <div class="content-container">
 			<div class="solid-button-container ">
-                <button class="solid-button"><a href="../account/login.html"> 
+               <button class="solid-button"><a href="../account/login.html"> 
                   <span>sign up/in</span>
                </a> </button>
             </div>
-              <h1 class="text09">hair salon</h1>             
+              <h1 class="text09">hall rental</h1>             
            </div>	
           </div>
         </div>
@@ -57,18 +54,18 @@
 			   <div class="place-card-container">
               <img
                 alt="image"
-                src="service providers/beauty hair salon/pic 1.jpg"
+                src="service providers/advangel rental/pic 1.jpg"
                 class="place-card-image"
               />
               <div class="place-card-container1">
-                <span class="place-card-text"><span>beauty hair salon</span></span>
+                <span class="place-card-text"><span>advangel rental</span></span>
                 <span class="place-card-text1">
                   <span>
-                 Beauty hair salon have smart and experienced hairstylists.We use hair coloring, haircutting and hair...
+                 If you are looking for a great place to hold your Wedding Reception, Graduation Party, Birthday Party...
                   </span>
                 </span>
                 <div class="outline-button-container">
-                  <button class="outline-button"><a href="service providers/beauty hair salon/beauty hair salon.html">
+                  <button class="outline-button"><a href="service providers/advangel rental/advangel.html">
                     <span>vist page</span>
                   </a></button>
                 </div>
@@ -77,18 +74,18 @@
 			   <div class="place-card-container">
               <img
                 alt="image"
-                src="service providers/style barber shop/pic 1.jpg"
+                src="service providers/taza rental/pic 1.jpg"
                 class="place-card-image"
               />
               <div class="place-card-container1">
-                <span class="place-card-text"><span>style barber shop</span></span>
+                <span class="place-card-text"><span>taza rental</span></span>
                 <span class="place-card-text1">
                   <span>
-                  Now days the hair cut you get is a reflection of your style and personality. It can be challenge picking the best...
+                  Your event belongs at The Palm. Whether it’s a business lunch for 10, a holiday party for 50 or an extravagant...
                   </span>
                 </span>
                 <div class="outline-button-container">
-                  <button class="outline-button"><a href="service providers/style barber shop/style barber shop.html">
+                  <button class="outline-button"><a href="service providers/taza rental/taza.html">
                     <span>vist page</span>
                   </a></button>
                 </div>
@@ -97,17 +94,17 @@
             <div class="place-card-container">
               <img
                 alt="image"
-                src="service providers/shine hair salon/pic 1.jpg"
+                src="service providers/werku rental/pic 1.jpg"
                 class="place-card-image"
               />
               <div class="place-card-container1">
-                <span class="place-card-text"><span>Shine hair salon</span></span>
+                <span class="place-card-text"><span>werku rental</span></span>
                 <span class="place-card-text1">
                   <span>
-                 We give beauty treatments like massage , hair removal ,sun tanning , facial for face ,maincures and pedicures for...
+                their is nothing like a professional enviroment to get meetings going. we at werku rentals have a varity of ...
                   </span>
                 </span>
-                <div class="outline-button-container"><a href="service providers/shine hair salon/shine hair salon.html">
+                <div class="outline-button-container"><a href="service providers/werku rental/werku.html">
                   <button class="outline-button">
                     <span>vist page</span>
                 </a> </button>

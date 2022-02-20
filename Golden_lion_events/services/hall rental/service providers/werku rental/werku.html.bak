@@ -2,7 +2,7 @@
 
 <html lang="en">
   <head>
-    <title> advangel rental</title>
+    <title>werku rental</title>
     <meta property="og:title" content="goldenlion events" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -14,7 +14,7 @@
   <body>
   <div class="container">
   <header>
-  <img  src="../../../../logo.png" alt="logo" class="image"/>
+  	<img  src="../../../../logo.png" alt="logo" class="image"/>
   <nav class="navbar">
         <div class="brand-title">GOLDENLION EVENTS</div>
         <a href="#" class="toggle-button">
@@ -39,7 +39,7 @@
           <div class="hero">
 			 <div class="content-container">
               <img  class="profile "src="profile.jpg" alt="profile_pic"></img>
-                <h1> advangel rental</h1>			  
+                <h1>  werku rental</h1>			  
            </div>	
           </div>
         </div>
@@ -63,20 +63,13 @@
                 
                 <span class="place-card-text1">
                   <span>
-                  If you are looking for a great place to hold your Wedding Reception, Graduation Party,
-                Birthday Party, Quinceañera, or any other party or get-together,you've found it.we feature
-                a fantastic selection of halls, community centres and venues for hire. what are you waitng
-                for book your event with advangel. we will work hard for you.
+                   their is nothing like a professional enviroment to get meetings going. we at werku
+                rentals have a varity of conference halls available for you. from small to large. from closed
+                to spacious, we have what you need. our halls are clean and maintain international standards,
+                we will not disappoint you in any way. come and work with the best werku rental.
                   </span>
-				  <div class="check_log">
-                    <div id="msg_order" class="solid-button-container1" style="  display:none;">
-                     <span id="span1">you have to login to place order</span><button class="solid-button1" onclick="window.location.href='../../../account/login.html'" >
-                        <span>signup/in</span>
-                      </button>
-                </div> 
-                </div>
 				    <div class="solid-button-container ">
-                <button id="placeorder" class="solid-button" onclick=" return place_order()" method="post">
+                <button class="solid-button">
                   <span>place order</span>
                 </button>
             </div> 

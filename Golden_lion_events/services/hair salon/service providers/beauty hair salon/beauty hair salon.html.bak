@@ -2,7 +2,7 @@
 
 <html lang="en">
   <head>
-    <title> advangel rental</title>
+    <title> beauty hair salon</title>
     <meta property="og:title" content="goldenlion events" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -39,7 +39,7 @@
           <div class="hero">
 			 <div class="content-container">
               <img  class="profile "src="profile.jpg" alt="profile_pic"></img>
-                <h1> advangel rental</h1>			  
+                <h1> beauty hair salon</h1>			  
            </div>	
           </div>
         </div>
@@ -63,20 +63,12 @@
                 
                 <span class="place-card-text1">
                   <span>
-                  If you are looking for a great place to hold your Wedding Reception, Graduation Party,
-                Birthday Party, Quinceañera, or any other party or get-together,you've found it.we feature
-                a fantastic selection of halls, community centres and venues for hire. what are you waitng
-                for book your event with advangel. we will work hard for you.
+                Beauty hair salon have smart and experienced hairstylists.We use hair coloring, haircutting and hair textuing techniques.
+For different hair and skin types we use quality products. We work for your happiness and satisfaction.
+We have large room on sheger building 2nd floor in Gerji come and enjoy your comfort.
                   </span>
-				  <div class="check_log">
-                    <div id="msg_order" class="solid-button-container1" style="  display:none;">
-                     <span id="span1">you have to login to place order</span><button class="solid-button1" onclick="window.location.href='../../../account/login.html'" >
-                        <span>signup/in</span>
-                      </button>
-                </div> 
-                </div>
 				    <div class="solid-button-container ">
-                <button id="placeorder" class="solid-button" onclick=" return place_order()" method="post">
+                <button class="solid-button">
                   <span>place order</span>
                 </button>
             </div> 
